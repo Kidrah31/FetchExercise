@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FetchExercise</string>
+    <string name="id">ID</string>
+    <string name="listid">listId</string>
+    <string name="name">name</string>
+</resources>
